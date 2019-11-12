@@ -15,12 +15,13 @@
 - [Links](#links)
 
 ## Project Description
-Write a short introduction to your project: 3-5 sentences about the context of your topic and why you chose it.
+our project is about crimes reported in london, what are they? and what happened for criminals?
 
 ## Questions & Hypotheses
-What are the questions you would like to answer with your analysis? What did you feel were the answers to those questions before answering them with data?
+we will find out what are the most crimes occurr in london and which area is highly rated for crimes to occurr in it? and are crimes are related to the renting price or not?
 
 ## Dataset
+we used a csv file for the crimes 
 What dataset (or datasets) did you use? What are the different sources you used (e.g. APIs, web scrapping, etc.)? Provide links to the data if available and describe the data briefly.
 
 ## Database
